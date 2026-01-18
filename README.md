@@ -27,21 +27,21 @@
 
 <br/>
 
-<!-- TABLA DE CONTENIDO (2 COLUMNAS) -->
+<!-- TABLA DE CONTENIDO (Ajustado a 60% Texto / 40% Stack) -->
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
 ## 👨‍💻 Sobre mí
 
 Soy un estudiante de **Ingeniería de Sistemas** con un enfoque híbrido único: combino la lógica rigurosa del **Análisis de Datos** con la creatividad del **Desarrollo Frontend**.
 
-Me defino por la curiosidad y el pensamiento lógico. Como estudiante de 7mo ciclo (Tercio Superior), mi enfoque es y será encontrar la solución más competente y escalable para cualquier desafío.
+Me defino por la curiosidad y el pensamiento lógico. Como estudiante de **7mo ciclo (Tercio Superior)**, mi enfoque es y será encontrar la solución más competente y escalable para cualquier desafío.
 
-Me especializo en traducir datos crudos en estrategias claras y envolverlas en aplicaciones web seguras. No me conformo con lo básico; siempre busco innovar en el 'cómo' se hacen las cosas, optimizando procesos y aprendiendo paso a paso nuevas tecnologías para no quedarme atrás en una industria que nunca se detiene.
+Me especializo en traducir datos crudos en estrategias claras y envolverlas en aplicaciones web seguras. No me conformo con lo básico; siempre busco innovar en el *'cómo'* se hacen las cosas, optimizando procesos y aprendiendo paso a paso nuevas tecnologías para no quedarme atrás en una industria que nunca se detiene.
 
 </td>
-<td width="45%">
+<td width="40%">
 
 ## 🛠️ Tech Stack
 
