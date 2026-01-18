@@ -30,19 +30,18 @@
 <!-- TABLA DE CONTENIDO (2 COLUMNAS) -->
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
 ## 👨‍💻 Sobre mí
 
-¡Hola! Soy estudiante de Ingeniería de Sistemas apasionado por crear puentes entre el código y los datos.
+Soy un estudiante de **Ingeniería de Sistemas** con un enfoque híbrido único: combino la lógica rigurosa del **Análisis de Datos** con la creatividad del **Desarrollo Frontend**.
 
-*   🔭 Actualmente trabajando en **soluciones Full Stack Scalables**
-*   🌱 Aprendiendo **Deep Learning & Arquitectura Cloud**
-*   ⚡ Dato curioso: **Me encanta optimizar consultas SQL tanto como animaciones CSS.**
-*   🎯 Objetivo: **Crear impacto a través de la tecnología.**
+Me defino por la curiosidad y el pensamiento lógico. Como estudiante de 7mo ciclo (Tercio Superior), mi enfoque es y será encontrar la solución más competente y escalable para cualquier desafío.
+
+Me especializo en traducir datos crudos en estrategias claras y envolverlas en aplicaciones web seguras. No me conformo con lo básico; siempre busco innovar en el 'cómo' se hacen las cosas, optimizando procesos y aprendiendo paso a paso nuevas tecnologías para no quedarme atrás en una industria que nunca se detiene.
 
 </td>
-<td width="50%">
+<td width="45%">
 
 ## 🛠️ Tech Stack
 
@@ -68,13 +67,7 @@
 </table>
 
 <br/>
-
-<!-- ESTADÍSTICAS DARK MODE (Combinan con tu web) -->
-<div align="center">
-  <h3>📊 Mis Estadísticas en Código</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Franco1811&show_icons=true&theme=midnight-purple&hide_border=false&bg_color=0a0a0a&title_color=f97316&icon_color=f97316" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franco1811&layout=compact&theme=midnight-purple&hide_border=false&bg_color=0a0a0a&title_color=f97316" height="160" />
-</div>
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=d97706&height=100&section=footer" />
