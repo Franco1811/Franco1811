@@ -4,7 +4,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=d97706&height=250&section=header&text=Franco%20Gonzalez&fontSize=70&fontAlignY=40)
 
 <!-- TÍTULO GRANDE -->
-# 🚀 Web Developer & Data Analyst
+# 🚀 Data Analyst
 
 ### *"Transformando datos complejos en experiencias web simples"*
 
